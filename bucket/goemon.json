@@ -1,0 +1,14 @@
+{
+    "version": "0.0.3",
+    "homepage": "https://github.com/mattn/goemon",
+    "license": {
+        "identifier": "MIT"
+    },
+    "url": "https://github.com/mattn/goemon/releases/download/v0.0.3/goemon_v0.0.3_windows_amd64.zip",
+    "extract_dir": "goemon_v0.0.3_windows_amd64",
+    "bin": "goemon.exe",
+    "checkver": {
+        "url": "https://github.com/mattn/goemon/releases",
+        "regex": "Release v([\\d.]+)"
+    }
+}
