@@ -1,5 +1,6 @@
 {
     "version": "0.0.3",
+    "hash": "5538cd8fb9733f4d9dbdc4d39b284ab63c0fe250622719e8ee4738c1c2ffced2",
     "homepage": "https://github.com/mattn/goemon",
     "license": {
         "identifier": "MIT"
