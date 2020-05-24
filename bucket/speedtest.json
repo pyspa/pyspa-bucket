@@ -1,10 +1,11 @@
 {
     "version": "1.0.0",
-    "homepage": "https://github.com/mattn/goemon",
+    "description": "internet connection measurement for developers",
+    "homepage": "https://www.speedtest.net/apps/cli",
     "license": {
         "identifier": "Freeware"
     },
-    "url": "https://ookla.bintray.com/download/:ookla-speedtest-1.0.0-win64.zip",
+    "url": "https://ookla.bintray.com/download/ookla-speedtest-1.0.0-win64.zip",
     "hash": "64054a021dd7d49e618799a35ddbc618dcfc7b3990e28e513a420741717ac1ad",
     "bin": "speedtest.exe",
     "checkver": {
