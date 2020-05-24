@@ -8,6 +8,6 @@
     "hash": "1be92f598145f61ca67dd9f5c687dfec17953548d013715ff54067b34d7c3246",
     "bin": "mkcert.exe",
     "checkver": {
-        "github": "https://github.com/FiloSottile/mkcert",
+        "github": "https://github.com/FiloSottile/mkcert"
     }
 }
