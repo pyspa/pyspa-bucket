@@ -1,5 +1,6 @@
 {
     "version": "0.0.3",
+    "description": "File change monitor and reloader",
     "homepage": "https://github.com/mattn/goemon",
     "license": {
         "identifier": "MIT"
