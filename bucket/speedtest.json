@@ -1,11 +1,11 @@
 {
     "version": "1.0.0",
-    "hash": "64054a021dd7d49e618799a35ddbc618dcfc7b3990e28e513a420741717ac1ad",
     "homepage": "https://github.com/mattn/goemon",
     "license": {
         "identifier": "Freeware"
     },
     "url": "https://ookla.bintray.com/download/:ookla-speedtest-1.0.0-win64.zip",
+    "hash": "64054a021dd7d49e618799a35ddbc618dcfc7b3990e28e513a420741717ac1ad",
     "bin": "speedtest.exe",
     "checkver": {
         "url": "https://bintray.com/ookla/download/speedtest-cli"
