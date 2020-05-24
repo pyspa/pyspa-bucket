@@ -1,12 +1,13 @@
 {
     "version": "3.5.0",
+    "description": "Simple and flexible tool for managing secrets",
     "homepage": "https://github.com/mozilla/sops",
     "license": {
         "identifier": "MPL-2.0"
     },
     "url": "https://github.com/mozilla/sops/releases/download/v3.5.0/sops-v3.5.0.exe",
     "hash": "326f00573d01979d231ff07cbfdadb5f353a87998ba4144ec7c72f53d377af13",
-    "bin": "sops.exe",
+    "bin": [ [ "sops-v3.5.0.exe", "sops.exe" ] ],
     "checkver": {
         "github": "https://github.com/mozilla/sops"
     }
